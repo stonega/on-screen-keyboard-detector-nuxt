@@ -17,8 +17,8 @@ const nuxtModule: Module<ModuleOptions> = function (moduleOptions) {
   this.nuxt.options.build.transpile.push(runtimeDir)
 
   this.addPlugin({
-    src: path.resolve(runtimeDir, 'plugin.js'),
-    fileName: 'on-screen-keyboard-detector.js',
+    src: path.resolve(runtimeDir, 'plugin.mjs'),
+    fileName: 'on-screen-keyboard-detector.mjs',
     options
   })
 }

@@ -13,7 +13,7 @@ const KeyboardDetecter = (ctx, inject) => {
   let unsubscribe
   if (isSupported()) {
     unsubscribe = subscribe((visibility) => {
-      state.show = visibility === 'hidden'
+      state.show = visibility !== 'hidden'
     })
   }
   extend(ctx.app, {
