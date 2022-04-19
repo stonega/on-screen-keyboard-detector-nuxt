@@ -11,31 +11,31 @@ Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossa
 
 </alert>
 
-Add `nuxt-module-template` dependency to your project:
+Add `on-screen-keyboard-detector-nuxt` dependency to your project:
 
 <code-group>
   <code-block label="Yarn" active>
 
   ```bash
-  yarn add nuxt-module-template
+  yarn add on-screen-keyboard-detector-nuxt
   ```
 
   </code-block>
   <code-block label="NPM">
 
   ```bash
-  npm install nuxt-module-template
+  npm install on-screen-keyboard-detector-nuxt
   ```
 
   </code-block>
 </code-group>
 
-Then, add `nuxt-module-template` to the `modules` section in your `nuxt.config.js`. You can use either of the following ways to specify the module options:
+Then, add `on-screen-keyboard-detector-nuxt` to the `modules` section in your `nuxt.config.js`. You can use either of the following ways to specify the module options:
 
 ```js {}[nuxt.config.js]
 {
   modules: [
-    'nuxt-module-template',
+    'on-screen-keyboard-detector-nuxt',
   ],
   adyen: {
     /* module options */
@@ -49,7 +49,7 @@ or
 {
   modules: [
     [
-      'nuxt-module-template',
+      'on-screen-keyboard-detector-nuxt',
       { /* module options */ }
     ]
   ],
@@ -67,7 +67,7 @@ If using typescript or running typescript language server to check the code (for
   "compilerOptions": {
     "types": [
       "@nuxt/types",
-      "nuxt-module-template",
+      "on-screen-keyboard-detector-nuxt",
     ]
   }
 }

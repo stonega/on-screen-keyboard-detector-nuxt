@@ -13,7 +13,7 @@ const nuxtModule: Module<ModuleOptions> = function (moduleOptions) {
   }
 
   const runtimeDir = path.resolve(__dirname, 'runtime')
-  this.nuxt.options.alias['~nuxt-module-template'] = runtimeDir
+  this.nuxt.options.alias['~on-screen-keyboard-detector-nuxt'] = runtimeDir
   this.nuxt.options.build.transpile.push(runtimeDir)
 
   this.addPlugin({

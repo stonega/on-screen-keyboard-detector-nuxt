@@ -7,12 +7,12 @@ category: Getting started
 
 ## Options
 
-The fastest way to get started with **nuxt-module-template** is to define the options:
+The fastest way to get started with **on-screen-keyboard-detector-nuxt** is to define the options:
 
 ```js {}[nuxt.config.js]
 {
   modules: [
-    ['nuxt-module-template', {
+    ['on-screen-keyboard-detector-nuxt', {
       ...
     }]
   ],

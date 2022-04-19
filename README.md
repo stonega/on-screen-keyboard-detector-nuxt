@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./docs/static/preview.png" alt="nuxt-module-template logo">
-</p>
+<!-- <p align="center">
+  <img src="./docs/static/preview.png" alt="on-screen-keyboard-detector-nuxt logo">
+</p> -->
 
-# nuxt-module-template
+# on-screen-keyboard-detector-nuxt
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -10,46 +10,44 @@
 [![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
-> X Module for Nuxt.js
+> On Sceren Keyboard Detector for Nuxt.js
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
 ## Setup
 
-1. Add `nuxt-module-template` dependency to your project
+1. Add `on-screen-keyboard-detector-nuxt` dependency to your project
 
 ```bash
-yarn add nuxt-module-template # or npm install nuxt-module-template
+yarn add on-screen-keyboard-detector-nuxt # or npm install on-screen-keyboard-detector-nuxt
 ```
 
-2. Add `nuxt-module-template` to the `modules` section of `nuxt.config.js`
+2. Add `on-screen-keyboard-detector-nuxt` to the `modules` section of `nuxt.config.js`
 
 ```js
 /// nuxt.config.js
 {
   modules: [
-    // Simple usage
-    'nuxt-module-template',
-
-    // With options
-    ['nuxt-module-template', { /* module options */ }]
+    'on-screen-keyboard-detector-nuxt',
   ]
 }
 ```
 
-Or a separate section `nuxt-module-template` for module options:
+Or a separate section `on-screen-keyboard-detector-nuxt` for module options:
 
 ```js
 // nuxt.config.js
 {
   modules: [
-    // Simple usage
-    'nuxt-module-template',
+    'on-screen-keyboard-detector-nuxt',
   ],
-  'nuxt-module-template': {
-    /* all other options */
-  }
 }
+```
+
+Usage
+
+```
+$keyboard.show
 ```
 
 ## Documentation

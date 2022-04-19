@@ -14,7 +14,7 @@ features:
 <img src="/preview.png" class="light-img" />
 <img src="/preview-dark.png" class="dark-img" />
 
-[Module X](https://github.com/baroshem/nuxt-module-template) for [NuxtJS](https://nuxtjs.org).
+[Module X](https://github.com/baroshem/on-screen-keyboard-detector-nuxt) for [NuxtJS](https://nuxtjs.org).
 
 ## Features
 
