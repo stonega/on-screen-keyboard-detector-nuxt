@@ -74,20 +74,18 @@ yarn && yarn dev
 
 [MIT License](./LICENSE)
 
-Copyright (c) Baroshem <jakub.andrzejewski.dev@gmail.com>
-
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/nuxt-adyen-module/latest.svg
-[npm-version-href]: https://npmjs.com/package/nuxt-adyen-module
+[npm-version-src]: https://img.shields.io/npm/v/on-screen-keyboard-detector-nuxt/latest.svg
+[npm-version-href]: https://npmjs.com/package/on-screen-keyboard-detector-nuxt
 
-[npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-adyen-module.svg
-[npm-downloads-href]: https://npmjs.com/package/nuxt-adyen-module
+[npm-downloads-src]: https://img.shields.io/npm/dt/on-screen-keyboard-detector-nuxt.svg
+[npm-downloads-href]: https://npmjs.com/package/on-screen-keyboard-detector-nuxt
 
-[github-actions-ci-src]: https://github.com/baroshem/nuxt-adyen-module/workflows/ci/badge.svg
-[github-actions-ci-href]: https://github.com/baroshem/nuxt-adyen-module/actions?query=workflow%3Aci
+[github-actions-ci-src]: https://github.com/stonega/on-screen-keyboard-detector-nuxt/actions/workflows/ci.yml/badge.svg
+[github-actions-ci-href]: https://github.com/stonega/on-screen-keyboard-detector-nuxt/actions/workflows/ci.yml
 
-[codecov-src]: https://img.shields.io/codecov/c/github/baroshem/nuxt-adyen-module.svg
-[codecov-href]: https://codecov.io/gh/baroshem/nuxt-adyen-module
+[codecov-src]: https://img.shields.io/codecov/c/github/stonega/on-screen-keyboard-detector-nuxt.svg
+[codecov-href]: https://codecov.io/gh/stonega/on-screen-keyboard-detector-nuxt
 
-[license-src]: https://img.shields.io/npm/l/nuxt-adyen-module.svg
-[license-href]: https://npmjs.com/package/nuxt-adyen-module
+[license-src]: https://img.shields.io/npm/l/on-screen-keyboard-detector-nuxt.svg
+[license-href]: https://npmjs.com/package/on-screen-keyboard-detector-nuxt
