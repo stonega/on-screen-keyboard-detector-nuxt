@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.9](https://github.com/stonega/on-screen-keyboard-detector-nuxt/compare/v0.1.8...v0.1.9) (2022-04-20)
+
+
+### Bug Fixes
+
+* update plugin file name ([f98c91f](https://github.com/stonega/on-screen-keyboard-detector-nuxt/commit/f98c91f7b8b00e93dbd2e91f4434492ac188aa2a))
+
 ### [0.1.8](///compare/v0.1.7...v0.1.8) (2022-04-19)
 
 ### [0.1.7](///compare/v0.1.6...v0.1.7) (2022-04-19)
