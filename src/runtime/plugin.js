@@ -18,7 +18,7 @@ const KeyboardDetecter = (ctx, inject) => {
   }
   extend(ctx.app, {
     beforeDestroy () {
-      unsubscribe()
+      unsubscribe?.()
     }
   })
 
