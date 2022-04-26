@@ -19,6 +19,7 @@ const nuxtModule: Module<ModuleOptions> = function (moduleOptions) {
   this.addPlugin({
     src: path.resolve(runtimeDir, 'plugin.mjs'),
     fileName: 'on-screen-keyboard-detector.mjs',
+    mode: 'client',
     options
   })
 }
